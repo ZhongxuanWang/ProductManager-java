@@ -1,0 +1,4 @@
+Product Name: Cola
+ Price:1.2
+ Stars:NO STAR ASSIGNED
+ Reviews:No Review Available!
